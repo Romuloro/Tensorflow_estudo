@@ -1,0 +1,13 @@
+wheel
+numpy
+pandas
+matplotlib
+opencv-python
+seaborn
+scikit-learn
+jupyter
+jupyterthemes
+pretty-confusion-matrix
+lime
+shap
+tensorflow
